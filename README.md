@@ -238,4 +238,4 @@ TDD for imperative designs is a sanity/syntax check for declared/declaring behav
 
 Are we over-abusing the proxy design pattern in OOP ??
 
-Remote class vs Remote imperative
+** Remote class vs Remote imperative **
