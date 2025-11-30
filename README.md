@@ -236,7 +236,6 @@ When it comes to OOP, I believe that error handling, handling, is much more usef
 
 TDD for imperative designs is a sanity/syntax check for declared/declaring behaviors. TDD for OOP designs is a sanity/syntax check for class behaviors?
 
-Are we over-abusing the proxy design pattern in OOP ??
-```
+Are we over-abusing the proxy design pattern in OOP ?
 
 Remote class vs Remote imperative 
