@@ -38,7 +38,7 @@ void testIsValidPersonalTree() {
 ```
 
 The test above enables us to do the following:
-- import a Node library into our PersonalTree class
+- Import a Node library into our PersonalTree class
 - Further express the PersonalTree class by setting default constructions that use the Node library
 
 Given this is not a personally created Node class, of which has been tested time and time again, I excluded created the test cases for testing the 
